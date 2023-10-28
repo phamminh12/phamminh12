@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a university
 - 💞️ I’m looking to collaborate on the company
 - 📫 How to reach me 
-      -> aeonepiece7a4@gmail.com
+      -> phamngocbaominh0102@gmail.com
 
 <!---
 phamminh12/phamminh12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
